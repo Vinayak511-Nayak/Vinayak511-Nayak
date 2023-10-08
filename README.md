@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Vinayak511-Nayak
+- 👋 Hi, I’m VINAYAK R NAYAK
 - 👀 I’m interested in Coding
-- 🌱 I’m student of Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m CSE graduate
+
 
 <!---
 Vinayak511-Nayak/Vinayak511-Nayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
